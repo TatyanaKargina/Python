@@ -1,0 +1,3 @@
+stroka
+stroka_2
+Hello World
